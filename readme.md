@@ -190,13 +190,41 @@ MONGO_URI=your_mongodb_connection_string
 ## Screenshots
 
 > Add screenshots of:
+
+
 - Login Page
+
+![LOGIN](image.png)
+
+
 - Dashboard
+
+![DASHBOARD](image-1.png)
+
 - Add User
+
+![ADD-USER](image-2.png)
+
+
 - View Users
+
+![VIEW-USER](image-3.png)
+
+
 - User Profile
+
+![ DETAILS ](image-4.png)
+
+
 - Edit User
+
+![EDIT](image-5.png)
+
+
 - Sidebar
+
+![SIDEBAR](image-6.png)
+
 
 ---
 
@@ -223,7 +251,7 @@ Update after recording.
 
 ## Author
 
-**Your Name**
+**PALAK**
 
 ---
 
