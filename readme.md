@@ -1,6 +1,6 @@
 # Admin Panel
 
-A full-stack Admin Panel built using **Node.js**, **Express.js**, **MongoDB**, **Mongoose**, **EJS**, and **Bootstrap**. The application provides complete CRUD operations with secure authentication, profile management, avatar uploads, and a modern admin dashboard.
+A full-stack project , The Admin Panel built using **Node.js**, **Express.js**, **MongoDB**, **Mongoose**, **EJS**, and **Bootstrap**. The application provides complete CRUD operations with secure authentication, profile management, avatar uploads, and a modern admin dashboard.
 
 ---
 
