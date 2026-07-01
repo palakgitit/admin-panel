@@ -144,19 +144,6 @@ Removes the selected user from the database.
 
 
 
----
-
-## Environment Variables
-
-Create a `.env` file in the project root.
-
-```env
-PORT=3000
-MONGO_URI=your_mongodb_connection_string
-```
-
----
-
 ## Screenshots
 
 
