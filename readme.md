@@ -1,6 +1,6 @@
-# User Management System
+# Admin Panel
 
-A full-stack User Management System built using **Node.js**, **Express.js**, **MongoDB**, **Mongoose**, **EJS**, and **Bootstrap**. The application provides complete CRUD operations with secure authentication, profile management, avatar uploads, and a modern admin dashboard.
+A full-stack Admin Panel built using **Node.js**, **Express.js**, **MongoDB**, **Mongoose**, **EJS**, and **Bootstrap**. The application provides complete CRUD operations with secure authentication, profile management, avatar uploads, and a modern admin dashboard.
 
 ---
 
@@ -142,37 +142,7 @@ Removes the selected user from the database.
 
 ---
 
-## Installation
 
-Clone the repository
-
-```bash
-git clone <repository-url>
-```
-
-Move into the project directory
-
-```bash
-cd project-name
-```
-
-Install dependencies
-
-```bash
-npm install
-```
-
-Start the server
-
-```bash
-npm start
-```
-
-For development
-
-```bash
-npm run dev
-```
 
 ---
 
@@ -189,7 +159,6 @@ MONGO_URI=your_mongodb_connection_string
 
 ## Screenshots
 
-> Add screenshots of:
 
 
 - Login Page
@@ -232,9 +201,7 @@ MONGO_URI=your_mongodb_connection_string
 
 Video Link:
 
-```
-Update after recording.
-```
+[FIRST VERSION FOR ADMIN PANEL WITH COOKIE](https://drive.google.com/file/d/1b1Y3Y1vtrEbY197hbw5gtlTf31krjnqA/view?usp=drive_link)
 
 ---
 
